@@ -1,0 +1,12 @@
+name: hwk10
+title: hwk10
+username: vrjanisresearch
+account: vrjanisresearch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13247956
+bundleId: 9322232
+url: https://vrjanisresearch.shinyapps.io/hwk10/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
